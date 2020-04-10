@@ -26,12 +26,6 @@
   url: /intro
   not_numbered: true
 
-# External link
-- title: GitHub repository
-  url: https://github.com/jupyter/jupyter-book
-  external: true
-  not_numbered: true
-
 # Adds a searchbar link
 - title: Search
   search: true
@@ -53,4 +47,7 @@
     not_numbered: true
   - title: Jupyter notebooks
     url: /features/notebooks
+    not_numbered: true
+  - title: Maxwell
+    url: Maxwell/Notes
     not_numbered: true
