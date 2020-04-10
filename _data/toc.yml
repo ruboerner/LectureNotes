@@ -37,17 +37,11 @@
 - header: Demo textbook
 
 # A chapter w/ a collection of sections beneath it
-- title: Features and customization
+- title: Titel ganz oben
   url: /features/features
   not_numbered: true
   expand_sections: true
   sections:
-  - title: Markdown files
-    url: /features/markdown
-    not_numbered: true
-  - title: Jupyter notebooks
-    url: /features/notebooks
-    not_numbered: true
   - title: Maxwell
     url: Maxwell/Notes
     not_numbered: true
