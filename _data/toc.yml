@@ -24,6 +24,7 @@
 # Top-level page
 - title: Home
   url: /intro
+  expand_section: false
   not_numbered: true
 
 # Adds a searchbar link
