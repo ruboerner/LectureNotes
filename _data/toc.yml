@@ -34,14 +34,10 @@
 - divider: true
 
 # Add a header and sample content section
-- header: Demo textbook
+- header: Content of EM textbook
 
 # A chapter w/ a collection of sections beneath it
-- title: Titel ganz oben
-  url: /features/features
+- title: Maxwell
+  url: /Maxwell/Notes
   not_numbered: true
   expand_sections: true
-  sections:
-  - title: Maxwell
-    url: Maxwell/Notes
-    not_numbered: true
